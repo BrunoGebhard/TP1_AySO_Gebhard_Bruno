@@ -1,4 +1,4 @@
 # TP1_AySO_Gebhard_Bruno
-Alumno: <Bruno Gebhard>
+Alumno: <BrunoGebhard>
 División: <113>
 Turno: <Mañana>
