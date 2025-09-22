@@ -1,4 +1,4 @@
-Alumno: <Bruno-Gebhard>
+Alumno: <GebhardBruno>
 Division: <113>
 Turno: <Mañana>
 
